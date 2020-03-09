@@ -56,7 +56,6 @@ li a:hover:not(.active) {
     margin-top: 100px;
 }
 .btn {
- 
   background: #7288da;
   background-image: -webkit-linear-gradient(top, #7288da, #7288da);
   background-image: -moz-linear-gradient(top, #7288da, #7288da);
@@ -86,19 +85,7 @@ a {
   color: white;
   text-decoration: none; /* no underline */
 }
-
-.circular--portrait {
-    position: relative;
-    width: 60px;
-    height: 60px;
-    overflow: hidden;
-    border-radius: 50%;
-  }
-  .circular--square {
-    position: absolute;
-    right: 250;
-    top: 70 ;
-    width: 250px;
-    height: 250px;
+.circular--square {
+    
     border-radius: 50%;
   }
