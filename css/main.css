@@ -88,4 +88,5 @@ a {
 .circular--square {
     
     border-radius: 50%;
+    align-self : middle;
   }
